@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombre": "Flips",
+    "precio": 140
+  },
+  {
+    "id": 2,
+    "nombre": "Helado",
+    "precio": 300
+  },
+  {
+    "id": "3",
+    "nombre": "Chocolate",
+    "precio": 120
+  },
+  {
+    "id": "4",
+    "nombre": "Doritos",
+    "precio": 200
+  }
+]
